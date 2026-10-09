@@ -1,0 +1,6 @@
+{
+  "name": "云上赛宝业务协同与后台管理系统",
+  "description": "基于云上赛宝规范的委托业务协同与综合管理后台，涵盖角色权限配置、首页业务配置、客户库双库维护与认领审批、销售工作台及多中心协同调度。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
